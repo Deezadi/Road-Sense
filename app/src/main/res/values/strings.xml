@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">PotholeDetector</string>
+    <string name="potholes_detected_0">Potholes Detected: 0</string>
+</resources>
