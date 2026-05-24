@@ -78,5 +78,3 @@ flutter run
 - [geolocator](https://pub.dev/packages/geolocator)
 
 ---
-
-<p align="center">Made with ❤️ for surviving Indian roads</p>
